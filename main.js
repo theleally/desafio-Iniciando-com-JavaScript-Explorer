@@ -6,29 +6,30 @@
 //  let result = numberOne + numberTwo;
 //  alert(result);
 
-//  let n = "2";
+// const isNumber = 10
 
-//  if (n === 2) {
-//    alert("É um número");
-//  } else {
-//    alert("Não é um número");
-//  }
+// if (typeof isNumber == 'number') {
+//   alert('É um número')
+// } else {
+//   alert('Não é um número')
+// }
 
-//  let string = 2;
+// const isString = 'Isso é uma string'
 
-//  if (string === "2") {
-//    alert("É uma string");
-//  } else {
-//    alert("Não é uma string")
-//  }
+// if (typeof isString == 'string') {
+//   alert('É uma string')
+// } else {
+//   alert('Não é uma string')
+// }
 
-//  let booleano = 2;
 
-//  if (booleano === true || false) {
-//    alert("É um booleano");
-//  } else {
-//    alert("Não é um booleano");
-//  }
+// const isBoolean = true
+
+// if (typeof isBoolean == 'boolean') {
+//   alert('É um booleano')
+// } else {
+//   alert('Não é um booleano')
+// }
 
 //  let n1 = 10;
 //  let n2 = 5;
